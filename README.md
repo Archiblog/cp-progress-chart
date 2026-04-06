@@ -1,5 +1,7 @@
 # CP Progress Chart
 
+![CP Progress Chart Working Draft](cp-progress-chart-working-draft.png)
+
 This repository presents three states of Cedric Price’s pre-contract progress chart:
 
 1. **cp-progress-chart-facsimile.svg**
