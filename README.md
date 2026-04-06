@@ -20,3 +20,7 @@ Together these files demonstrate architecture as a process of **progressing** th
 Although GitHub lists files alphabetically, the intended methodological sequence is:
 
 **facsimile → blank → working draft**
+
+## License
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
